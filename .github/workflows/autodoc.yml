@@ -1,5 +1,5 @@
 
-﻿name: AutoDoc
+name: AutoDoc
 on:
   push:
     branches:
