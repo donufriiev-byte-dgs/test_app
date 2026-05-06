@@ -1,3 +1,0 @@
-[2026-04-06 14:21:59.786404] [INFO] Generating answer...
-[2026-04-06 14:22:01.202216] [INFO] Generated answer with model openai/gpt-4o.
-[2026-04-06 14:22:01.202313] [INFO] Answer: false|false
